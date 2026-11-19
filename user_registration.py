@@ -100,3 +100,6 @@
 # logic, exception handling, and structured thinking. If you can build this
 # system confidently and cleanly on your own, you are thinking like a real
 # Python developer.
+
+registered_users = []
+failed_registrations = []
